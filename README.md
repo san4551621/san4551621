@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me via email
+- 📫 You can reach me via Email om n-sanchitmishra45516221@gmail.com
 
 <!---
 san4551621/san4551621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
